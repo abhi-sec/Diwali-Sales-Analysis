@@ -1,5 +1,3 @@
-# Diwali-Sales-Analysis
-
 # Diwali Sales Data Analysis
 
 ## Table of Contents
